@@ -8,4 +8,3 @@
 phyo-dev/phyo-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/108564486/188772607-2fcc0c9d-92ce-40a1-92ca-556bf2f147a5.png)
